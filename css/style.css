@@ -41,8 +41,7 @@ width: 90vw;
 }
 .panel.panel.active h3 {
     opacity: 1;
-    position: absolute;
-    left: 25rem;
+
     font-size: 50px;
 }
 @media (max-width:480px) {
